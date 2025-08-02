@@ -4,6 +4,7 @@ Name: Astha Singh
 Email: asingh50@u.rochester.edu
 
 Synopsis: 
+
 This project consists of source code files and their class files: DoubleNode.java, DoublyLinkedList.java, InfixCalculator.java, MyDoublyLinkedList.java, MyQueue.java, MyStack.java, Node.java, Queue.java, SimpleLinkedList.java, Stack.java
 The purpose of this project is to implement java methods to create an infix calculator that takes in an input file containing infix expression, then 
 translates the infix expressions to postfix expressions, then evaluates the results and writes the calculations to an output file.
